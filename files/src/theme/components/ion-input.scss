@@ -1,0 +1,14 @@
+ion-input {
+    &.input-disabled.md, &.input-disabled.ios {
+        opacity: var(--mdl-input-disabled-opacity);
+    }
+
+    ion-input-password-toggle {
+        --ion-color-primary: var(--text-color);
+    }
+}
+
+input[disabled],
+input[readonly] {
+    opacity: var(--mdl-input-disabled-opacity);
+}
