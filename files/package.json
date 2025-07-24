@@ -155,6 +155,7 @@
         "circular-dependency-plugin": "^5.2.2",
         "concurrently": "^8.2.2",
         "cordova-plugin-moodleapp": "file:cordova-plugin-moodleapp",
+        "cordova-plugin-prevent-screenshot": "^1.0.3",
         "cross-env": "^7.0.3",
         "eslint": "^8.57.1",
         "eslint-plugin-deprecation": "^2.0.0",
@@ -238,7 +239,8 @@
             "cordova-plugin-wkuserscript": {},
             "cordova-plugin-wkwebview-cookies": {},
             "cordova-sqlite-storage": {},
-            "nl.kingsquare.cordova.background-audio": {}
+            "nl.kingsquare.cordova.background-audio": {},
+            "cordova-plugin-prevent-screenshot": {}
         }
     }
 }

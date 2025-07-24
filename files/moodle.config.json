@@ -1,8 +1,8 @@
 {
     "app_id": "com.educafelms.app",
     "appname": "EduCafe LMS",
-    "versioncode": 50000,
-    "versionname": "5.0.0",
+    "versioncode": 44446,
+    "versionname": "1.0.0",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
